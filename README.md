@@ -1,1 +1,1 @@
-The current project is about apply the HTML knowledge that I've learned by making a basic recipe website.
+The current project is about applying the HTML knowledge that I've learned so far by making a basic recipe website.
